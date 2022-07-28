@@ -5,3 +5,8 @@
 .questions {
     background-color: rgba(135, 207, 235, 0.366);
 }
+
+.fontawesome-icon a {
+    color: white;
+    text-decoration: none;
+}
