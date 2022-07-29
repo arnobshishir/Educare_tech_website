@@ -1,3 +1,4 @@
+/* VANILA CSS  */
 .slider {
     filter: brightness(60%);
 }
@@ -6,7 +7,8 @@
     background-color: rgba(135, 207, 235, 0.366);
 }
 
-.fontawesome-icon a {
+.fontawesome-icon a,
+.p-link a {
     color: white;
     text-decoration: none;
 }
